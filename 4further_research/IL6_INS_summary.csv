@@ -1,0 +1,23 @@
+Gene,Species,CDS_Length,GC_Content
+INS,Bos taurus,315,69.82%
+INS,Canis lupus familiaris,330,68.03%
+INS,Danio rerio,339,47.79%
+INS,Gallus gallus,321,52.57%
+INS,Homo sapiens,330,63.87%
+INS,Macaca mulatta,330,66.55%
+INS,Mus musculus,324,55.32%
+INS,Rattus norvegicus,330,55.94%
+INS,Sus scrofa,324,70.83%
+INS,Xenopus tropicalis,327,42.81%
+
+Gene,Species,CDS_Length,GC_Content
+IL6,Bos taurus,624,40.16%
+IL6,Canis lupus familiaris,621,42.48%
+IL6,Danio rerio,693,51.29%
+IL6,Gallus gallus,723,48.60%
+IL6,Homo sapiens,636,42.50%
+IL6,Macaca mulatta,636,51.17%
+IL6,Mus musculus,633,35.67%
+IL6,Rattus norvegicus,633,37.22%
+IL6,Sus scrofa,636,43.37%
+IL6,Xenopus tropicalis,723,41.22%
